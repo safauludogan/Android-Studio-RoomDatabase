@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="todo">TODO</string>
+    <string name="save">Save</string>
+</resources>
